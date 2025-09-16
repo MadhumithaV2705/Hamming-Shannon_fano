@@ -36,7 +36,8 @@ print(f"Variance is : {var}")
 ```
 # Calculation:
 ```
-Compare the manually calculated value and the observed practical value.
+![1](https://github.com/user-attachments/assets/9606a2d5-d110-4e4f-b85e-78ac7e887f1c)
+![2](https://github.com/user-attachments/assets/e59b1638-5f24-43a5-84a4-d27f2811e6a3)
 ```
 # Output
 <img width="481" height="121" alt="image" src="https://github.com/user-attachments/assets/cd18b05a-ea05-4e3b-8ac4-1fa52cd1d339" />
