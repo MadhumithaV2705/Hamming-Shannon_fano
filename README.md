@@ -42,6 +42,6 @@ Compare the manually calculated value and the observed practical value.
 <img width="481" height="121" alt="image" src="https://github.com/user-attachments/assets/cd18b05a-ea05-4e3b-8ac4-1fa52cd1d339" />
 
 # Results:
-```
-Write the conclusion
-```
+The Huffman and Shannon-Fano coding techniques have been successfully applied to the given source. The average codeword length, entropy, variance, redundancy, and efficiency have been computed.
+
+
